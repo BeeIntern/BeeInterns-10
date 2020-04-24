@@ -1,7 +1,7 @@
 # BeeInterns-10 
 ## hw - day10 
 
-Styling of landing_page of <mark>Martin Internationale Spedition</mark> provided by academic course:
+Styling of landing_page of <mark style="background-color: lightblue">Martin Internationale Spedition</mark> provided by academic course:
 
 Условие ДЗ:
 
